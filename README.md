@@ -1,4 +1,2 @@
-<video width="320" height="240" controls>
-  <source src="./video.mp4" type="video/mp4">
-  برو بمیر که mp4 هم کار نمیکنه
-</video>
+https://github.com/janati/janati/assets/83071310/c336f274-aaa3-4de2-8a3e-1f3ebc77c803
+
